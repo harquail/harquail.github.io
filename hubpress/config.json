@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "harquail",
-    "repositoryName": "harquail.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"harquail","repositoryName":"harquail.github.io","branch":"master"},"site":{"url":"https://harquail.github.io"},"socialnetwork":{"email":"nook@harquail.com"},"theme":{"name":"Casper","url":"//harquail.github.io/themes/Casper"}}
