@@ -516,6 +516,16 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .ghost-button {
+  z-index: 100;
+  left: 50%;
+  font-size: 34px;
+  text-align: center;
+  text-decoration: none;
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  -webkit-animation: bounce 4s 2s infinite;
+  animation: bounce 4s 2s infinite;
+  
   display: inline-block;
   width: 200px;
   padding: 8px;
